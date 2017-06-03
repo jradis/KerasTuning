@@ -48,3 +48,5 @@ Others have been trying to address the same problem. My good friend [Joe Davison
 
 ## Other Resources
 There are a lot of really awesome data scientists and aspiring data scientists that have posted a lot of really helpful material. For this project I followed a pattern published by Jason Brownlee [here](http://machinelearningmastery.com/grid-search-hyperparameters-deep-learning-models-python-keras/) as part of my effort during an internship with Ziff.ai, which repo can be found [here](https://github.com/ziff/internship2017).
+
+I am going to continue posting new work, which should get more and more exciting over time. If you want to see more you can follow me here on Github, or find me at JaredHeywood.com
